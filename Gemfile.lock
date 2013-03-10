@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    org-ruby (0.8.1)
+      rubypants (>= 0.2.0)
+    rubypants (0.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  org-ruby
